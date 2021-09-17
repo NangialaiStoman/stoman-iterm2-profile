@@ -2,20 +2,19 @@
 
 This is the profile setup I use for Iterm2 on my MacBook Pro.
 
-## Installation
+## Import & Configuration
 
-1. Make sure you have Node JS installed. If you don't have it: `npm install -g npm`
-1. Clone the repo: `git clone https://github.com/NangialaiStoman/vuejs-tailwindcss-portfolio.git`
-1. `cd vuejs-tailwindcss-portfolio`
-1. `npm install`
-1. `npm run serve` to start a local dev server at `http://localhost:8080`
+* Make sure you have Iterm2 installed. If you don't have it: [Download Iterm2](https://iterm2.com/downloads.html)
+* Download the JSON file from this repo or clone this repo
+* Open iterm2 -> go to `Preferences` or `command + ,` -> Profiles tab -> Other Actions -> Import JSON Profiles -> Select the downloaded json file -> save
+* Happy coding ;)
 
-## Notes
+## Useful Links
 
--   I'll be constantly updating this repo as I'll be adding more sections to it, so please always check the projects section of this repo to see what tasks are under todo and in progress
--   The dark mode is highly inspired by [Gridsome Portfolio Starter by Andre Madarang](https://github.com/drehimself/gridsome-portfolio-starter). Since that project is based on Gridsome, I wanted to create a Vue.js and TailwindCSS portfolio with dark mode
--   Coming Soon [I'll be doing a screencast](https://www.youtube.com/c/StomanStudio). Soon I'll be uploading a video to my YouTube channel where I'll be going through the process of creating this portoflio
--   Illustrations from [unDraw](https://undraw.co) and [Freepik](https://freepik.com)
--   Images from [Unsplash](https://unsplash.com)
--   Feel free to use it as your own portfolio
--   Contributions are welcome
+-   Iterm2 Color Schemes: [https://iterm2colorschemes.com](https://iterm2colorschemes.com)
+-   Oh My ZSH: [https://ohmyz.sh](https://ohmyz.sh) or [https://github.com/ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+-   ZSH Syntax Highlighting: [https://github.com/zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+-   ZSH Auto-Suggestions: [https://github.com/zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+-   Vim Material Theme: [https://github.com/kaicataldo/material.vim](https://github.com/kaicataldo/material.vim)
+
+
